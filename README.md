@@ -1,5 +1,5 @@
-# 📌 ClimateDataIssuesAndRequest  
-*A repository for reporting issues and submitting feature requests for all Climate Data for Buildings tools and datasets.*
+# 📌 Issues And Requests 
+*A repository for reporting issues and submitting feature requests for our tools and datasets.*
 
 This repository functions as a **central hub** for feedback, bugs, enhancement ideas, and requests related to:
 
